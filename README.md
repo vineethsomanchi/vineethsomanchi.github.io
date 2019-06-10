@@ -38,4 +38,4 @@ Donald's Day Off is primarily built using **Vanilla JavaScript** and **CSS**/**H
 ***
 
 ## **Wireframe**
-![Wireframe](wireframe.png)
+![Wireframe](https://github.com/vineethsomanchi/Donalds-Day-Off/blob/master/assets/wireframe.png)
