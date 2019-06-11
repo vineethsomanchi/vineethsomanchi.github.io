@@ -5,7 +5,7 @@ If you're an individual who's both active outdoors and active politically, _Dona
 ***
 
 ## **Technologies**
-Donald's Day Off is primarily built using **Vanilla JavaScript** and **CSS**/**HTML5 Canvas** for styling/design. Additional technologies may be added as development continues.
+Donald's Day Off is primarily built using **Vanilla JavaScript**, **CSS**/**HTML5 Canvas** for styling/rendering, and **Webpack** for script bundling. Additional technologies may be added as development continues.
 ***
 
 ## **Functionality/MVPs**
@@ -38,4 +38,4 @@ Donald's Day Off is primarily built using **Vanilla JavaScript** and **CSS**/**H
 ***
 
 ## **Wireframe**
-![Wireframe](wireframe.png)
+![Wireframe](https://github.com/vineethsomanchi/Donalds-Day-Off/blob/master/assets/wireframe.png)
