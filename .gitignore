@@ -4,9 +4,8 @@
 # or operating system, you probably want to add a global ignore instead:
 #   git config --global core.excludesfile '~/.gitignore_global'
 
-# Ignore bundler config.
-/.bundle
-bundle.js.map
+# IMPORTANT: bundle config files included to support github hosting
+
 
 # Ignore all logfiles and tempfiles.
 /log/*
